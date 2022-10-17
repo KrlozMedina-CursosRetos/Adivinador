@@ -1,0 +1,9 @@
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\bin\Debug\Adivinador.exe.config
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\bin\Debug\Adivinador.exe
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\bin\Debug\Adivinador.pdb
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.csprojResolveAssemblyReference.cache
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.Properties.Resources.resources
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.csproj.GenerateResource.Cache
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.exe
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.pdb
+E:\Software en telecomunicaciones\Adivinador\Adivinador\Adivinador\obj\Debug\Adivinador.Presentacion.resources
